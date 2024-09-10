@@ -1,0 +1,11 @@
+print()
+print("S.I")
+print()
+n = 12
+p = float (input ("Enter Principal: "))
+r = float(input ("Enter Rate Of Interest: "))
+t = float (input ("Enter Time Period: "))
+print()
+ci = p * ((1 + (0.01 * r)) ** t)
+print("Future Value: ", round(ci, 2))
+print()

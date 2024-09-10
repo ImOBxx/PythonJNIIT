@@ -1,0 +1,12 @@
+44549504
+45445
+djfdjjkj
+2334
+jfirjfijrfijri
+445454545
+322323232
+qwdwddee
+
+https://www.w3resource.com/python-exercises/#google_vignette
+https://www.geeksforgeeks.org/python-opencv-capture-video-from-camera/
+https://github.com/microsoft/pyright/blob/main/docs/configuration.md#reportMissingImports

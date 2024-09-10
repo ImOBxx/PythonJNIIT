@@ -1,0 +1,8 @@
+print()
+x = int (input("Enter Number: "))
+y = int (input ("Enter Number: "))
+print()
+sum = (x + y) * (x + y)
+print()
+print ("Sum: ", sum)
+print()

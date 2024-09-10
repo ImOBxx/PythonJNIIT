@@ -1,0 +1,8 @@
+print()
+n = input("Enter String: ")
+print()
+x = list(n)
+print(x)
+b = ''.join(x)
+print(b)
+print()

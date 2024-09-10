@@ -1,0 +1,5 @@
+print()
+name = input ("Enter Name: ")
+print()
+print(name[::-1])
+print()
